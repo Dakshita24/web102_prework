@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework
 
-Submitted by: **Your Name Here**
+Submitted by: Dakshita Pal
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -22,23 +22,24 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+[Video Walkthrough](https://i.imgur.com/T2F0o2h.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src="https://i.imgur.com/gkHAaXJ.gif" title="Video Walkthrough" width="500" height="500" alt="Video Walkthrough" /> -->
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with LICEcap (https://www.cockos.com/licecap/)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+It was challenging to use the reduce functions as I found them to be a bit confusing. But I felt overall, it was a valuable learning experience. The reduce function can be tricky 
+because it requires a deep understanding of how data is accumulated and transformed through each iteration. I had to spend extra time grasping the concept and experimenting with 
+different use cases to see how it could effectively simplify the code. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Dakshita Pal
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
