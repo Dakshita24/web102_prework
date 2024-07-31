@@ -31,6 +31,10 @@ GIF created with LICEcap (https://www.cockos.com/licecap/)
 
 Describe any challenges encountered while building the app.
 
+It was challenging to use the reduce functions as I found them to be a bit confusing. But I felt overall, it was a valuable learning experience. The reduce function can be tricky 
+because it requires a deep understanding of how data is accumulated and transformed through each iteration. I had to spend extra time grasping the concept and experimenting with 
+different use cases to see how it could effectively simplify the code. 
+
 ## License
 
     Copyright 2024 Dakshita Pal
