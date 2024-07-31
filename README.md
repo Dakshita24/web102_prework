@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src="http://i.imgur.com/PP3mB8u.gif" title="Video Walkthrough" width="500" height="500" alt="Video Walkthrough" />
+[Video Walkthrough](http://i.imgur.com/PP3mB8u.gif)
+<!-- <img src="http://i.imgur.com/PP3mB8u.gif" title="Video Walkthrough" width="500" height="500" alt="Video Walkthrough" /> -->
 
 GIF created with LICEcap (https://www.cockos.com/licecap/)
 
